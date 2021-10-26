@@ -1,9 +1,19 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
+
 int main(){
 
-char s;
-cin>>s;
-cout<<"PASSO BKASH"<<endl;
+  int arr[100];
+  int arr1[100];
+
+
+
+
+
+
+
+
+
 }
